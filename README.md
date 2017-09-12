@@ -1,4 +1,4 @@
-# Adavanced Affective Agent
+# ExoLife Plugins for Unity3D and UE4
 
 ExoLife Emotion Engine (EPU) - Game Plugins - Unity3D - Unreal Engine 4
 
