@@ -10,15 +10,7 @@ The ExoLife plugins links together the EPU emotion processing unit to the two ma
 
 Code Example
 
-    robot = Robot( input_method = 'voice' )
-    robot.setLights( Bridge('<Philips bridge ip>') )
-
-    while True:
-        response = robot.listen()
-        if response == 'bye':
-            break
-            
-            Motivation
+    plugin = 
 
 Hundreds of millions of people communicate daily their desires, their thoughts and their emotions to intelligent machines like Google, Facebook or Siri. We predict that before the end of this century humans will talk more to machines than to other humans. Emotion synthesis and the use of emotions remain a fundamental need for humans that cannot be addressed by today’s AI technology.
 
